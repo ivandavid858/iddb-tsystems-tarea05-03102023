@@ -7,7 +7,6 @@ public class Exercise10 {
 		Scanner sc = new Scanner(System.in);
 		
 		int numSales = sc.nextInt();
-		//sc.close();
 		
 		int acumSales = 0;
 		for (int i = 0; i < numSales; i++) {
